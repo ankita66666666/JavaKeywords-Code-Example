@@ -13,7 +13,7 @@ public class Animal {
     class Lion extends Animal{
         void eat(){System.out.println("eating meat...");}
     }
-    class TestPolymorphism3{
+    class Overriding{
         public static void main(String[] args){
             Animal a;
             a=new Dog();
