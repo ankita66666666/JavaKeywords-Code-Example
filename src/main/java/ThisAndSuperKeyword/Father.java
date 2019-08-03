@@ -4,7 +4,7 @@ public class Father {
 
 
     void message() {
-        System.out.println(" Father is the super class");
+        System.out.println(" VotingException is the super class");
     }
 
     public void display() {
