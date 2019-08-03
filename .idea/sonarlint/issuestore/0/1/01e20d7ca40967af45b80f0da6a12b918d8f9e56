@@ -1,0 +1,11 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+>squid:S1444"'Make this "public static a" field final(ƒ–û¯
+>squid:S1444"'Make this "public static b" field final(•ÅáÒ
+O
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(¡ó¸é
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ´şÿÿÿÿ
+{"squid:ClassVariableVisibilityCheck"MMake a a static final constant or non-public and provide accessors if needed.(ƒ–û¯
+{"squid:ClassVariableVisibilityCheck"MMake b a static final constant or non-public and provide accessors if needed.(•ÅáÒ
